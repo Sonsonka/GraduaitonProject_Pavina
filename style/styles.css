@@ -1,0 +1,238 @@
+body{
+    background-color: #FFFFFF !important;
+}
+a.nav-link{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+a.nav-link:hover,
+a.nav-link:focus,
+a.nav-link:visited{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.btn.btn-primary{
+    background-color: #DCDCDC;
+    border-color: #DCDCDC;
+    color: #000000;
+}
+.btn.btn-primary:hover,
+.btn.btn-primary:focus,
+.btn.btn-primary:visited{
+    background-color: #FF782D;
+    border-color: #FF782D;
+    color: white;
+}
+a.sr-only.sr-only-focusable{
+    color: #000000;
+    text-decoration: none;
+}
+a.sr-only.sr-only-focusable:hover,
+a.sr-only.sr-only-focusable:focus,
+a.sr-only.sr-only-focusable:visited{
+    color: #FF782D;
+    text-decoration: none;
+}
+a.arrow_link,
+a.arrow_link:hover,
+a.arrow_link:focus,
+a.arrow_link:visited{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+table {
+	border: 1px solid #FF782D;
+}
+table th {
+	font-weight: bold;
+    color: #FFFFFF;
+	background: #FF782D;
+	border: 1px solid #FF782D;
+}
+table td {
+	border: 1px solid #FF782D;
+}
+.arrow,
+.arrow_text,
+.hide,
+.current{
+    color: #000000;
+}
+.footer-link a{
+    color: #000000;
+    text-decoration: none;
+}
+.footer-link a:hover,
+.footer-link a:focus,
+.footer-link a:visited{
+    text-decoration: none;
+}
+.card-text a{
+    color: #000000;
+    text-decoration: none;
+}
+.card-text a:hover,
+.card-text a:focus,
+.card-text a:visited{
+    color: #FF782D;
+    text-decoration: none;
+}
+button.navbar-toggler{
+    background-color: #DCDCDC;
+}
+.navbar{
+    background-color: #4d4848 !important;
+}
+.h1, 
+.h2, 
+.h3, 
+.h4, 
+.h5, 
+.h6{
+    color: #000000 !important;
+}
+.p{
+    color: #000000 !important;
+}
+a.skip-block.skip{
+    color: #000000;
+    text-decoration: none;
+}
+a.skip-block.skip:hover,
+a.skip-block.skip:focus,
+a.skip-block.skip:visited{
+    color: #FF782D;
+    text-decoration: none;
+}
+a.aalink{
+    color: #000000;
+    text-decoration: none;
+}
+a.aalink:hover,
+a.aalink:focus,
+a.aalink:visited{
+    color: #FF782D;
+    text-decoration: none;
+}
+div.coursebox{
+    border: 1px solid #000000;
+}
+label.sr-only{
+    display: none;
+}
+select.custom-select{
+    border: 1px solid #FF782D;
+}
+.drawerheader{
+    background-color: #FF782D;
+}
+a{
+    color: #000000 !important;
+    text-decoration: none !important;
+}
+a::after,
+a:hover,
+a:focus,
+a:visited{
+    color: #FF782D !important;
+    text-decoration: none !important;
+}
+.login-heading{
+    color: #000000;
+}
+.drawer-toggles .drawer-toggler .btn {
+    background-color: #000000;
+    color: #FF782D;
+}
+.secondary-navigation{
+    background-color: #000000;
+}
+.course-category{
+    color: #000000;
+}
+a.nav-link{
+    color: #FFFFFF !important;
+    text-decoration: none;
+}
+a.nav-link::after,
+a.nav-link:hover,
+a.nav-link:focus,
+a.nav-link:visited{
+    color: #FF782D !important; 
+    text-decoration: none;
+}
+.primary-navigation.nav-link a{
+    color: #000000 !important;
+    text-decoration: none;
+}
+.nav-tabs .dropdown-menu{
+    background-color: #FFFFFF;
+}
+#user-action-menu{
+    background-color: #4d4848;
+}
+a.dropdown-item{
+    color: #000000 !important;
+}
+a.dropdown-item:hover,
+a.dropdown-item:focus,
+a.dropdown-item:visited{
+    background-color: transparent !important;
+}
+.multiline{
+    color: #FF782D !important;
+    font-weight: bold;
+    font-size: 18px;
+}
+.list-unstyled a{
+    color:#000000 !important;
+}
+.list-unstyled a:hover,
+.list-unstyled a:focus,
+.list-unstyled a:visited{
+    color:#FF782D !important;
+}
+.col-sm-3 a{
+    color: #000000 !important;
+}
+.col-sm-3 a:hover,
+.col-sm-3 a:focus,
+.col-sm-3 a:visited{
+    color: #FF782D !important;
+}
+.login-wrapper{
+    background-color: #DCDCDC !important;
+}
+a.courseindex-link.text-truncate{
+    color: #000000 !important;
+    text-decoration: none;
+}
+a.courseindex-link.text-truncate::after,
+a.courseindex-link.text-truncate:hover,
+a.courseindex-link.text-truncate:focus,
+a.courseindex-link.text-truncate:visited{
+    color: #FF782D !important; 
+    text-decoration: none;
+}
+
+.section-item a{
+    color: #000000 !important;
+}
+.section-item a::after,
+.section-item a:hover,
+.section-item a:focus,
+.section-item a:hover{
+    color: #FF782D !important;
+}
+a.aalink.coursename{
+    color: #000000 !important;
+}
+a.aalink.coursename::after,
+a.aalink.coursename:hover,
+a.aalink.coursename:focus,
+a.aalink.coursename:hover{
+    color: #FF782D !important;
+}
+#accessibilitysettings-control{
+    color: #FFFFFF;
+}
