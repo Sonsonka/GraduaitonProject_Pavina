@@ -236,3 +236,9 @@ a.aalink.coursename:hover{
 #accessibilitysettings-control{
     color: #FFFFFF;
 }
+.navbar-toggler{
+    background-color: #FF782D !important;
+}
+.card-img{
+    max-height: 100%;
+}
